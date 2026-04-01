@@ -55,4 +55,4 @@ Kami adalah Kelompok 2, yang terdiri dari 5 anggota dengan pembagian tugas sebag
 
 - **Bahasa Pemrograman:** C  
 - **Compiler:** GCC / MinGW  
-- **Platform:** Terminal / Command Prompt
+- **Platform:** Terminal / Command Promp
